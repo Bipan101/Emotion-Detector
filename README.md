@@ -2,6 +2,8 @@
 
 A machine learning project that classifies the emotion expressed in a piece of text (e.g., *joy, sadness, anger, fear, love, surprise*) using classical NLP preprocessing and ML classifiers. The final model is deployed as an interactive **Streamlit web app**.
 
+🔗 **Live Demo:** [emotiondetector-bipan.streamlit.app](https://emotiondetector-bipan.streamlit.app/)
+
 ---
 
 ## 📌 Project Overview
@@ -125,10 +127,9 @@ Logistic Regression combined with TF-IDF features achieved the highest accuracy 
 ## 📈 Future Improvements
 
 - Experiment with more advanced models (SVM, Random Forest, XGBoost).
-- Try word embeddings (Word2Vec, GloVe) or transformer-based models (BERT) for potentially higher accuracy.(But i did NLP with ML here so i didn't use those as they are of DL thingy)
+- Try word embeddings (Word2Vec, GloVe) or transformer-based models (BERT) for potentially higher accuracy (out of scope here, as this project focuses on classical NLP + ML rather than deep learning).
 - Add cross-validation and hyperparameter tuning (e.g., `GridSearchCV`) for more robust model selection.
 - Handle class imbalance if present in the emotion labels.
-- Deploy the app publicly via Streamlit Community Cloud or Hugging Face Spaces.
 
 ---
 
