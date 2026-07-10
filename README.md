@@ -143,4 +143,4 @@ Logistic Regression combined with TF-IDF features achieved the highest accuracy 
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](https://github.com/Bipan101/Emotion-Detector/blob/Main/LICENSE).
+This project is open source and available under the [MIT License](https://github.com/Bipan101/Emotion-Detector/blob/Main/LICENSE.md).
